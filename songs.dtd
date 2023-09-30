@@ -1,0 +1,15 @@
+<!ELEMENT canciones (cancion1|cancion2|cancion3)*>
+        <!ELEMENT cancion1 (duracion|anio|titulo|compositores|productores|sello|artista)*>
+        <!ELEMENT duracion (#PCDATA)>
+        <!ELEMENT anio (#PCDATA)>
+        <!ELEMENT titulo (#PCDATA)>
+        <!ELEMENT compositores (compositor)*>
+        <!ELEMENT compositor (nombres|apellidos)*>
+        <!ELEMENT nombres (#PCDATA)>
+        <!ELEMENT apellidos (#PCDATA)>
+        <!ELEMENT productores (productor)*>
+        <!ELEMENT productor (nombres|apellidos)*>
+        <!ELEMENT sello (#PCDATA)>
+        <!ELEMENT artista (#PCDATA)>
+        <!ELEMENT cancion2 (duracion|anio|titulo|compositores|productores|sello|artista)*>
+        <!ELEMENT cancion3 (duracion|anio|titulo|compositores|productores|sello|artista)*>

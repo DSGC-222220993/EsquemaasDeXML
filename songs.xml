@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE canciones SYSTEM "songs.dtd">
+<canciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="songs.xsd">
+
+    <cancion1>
+
+        <duracion>3:30</duracion>
+        <anio>2005</anio>
+        <titulo>O pato</titulo>
+
+        <compositores>
+            <compositor>
+                <nombres>Jayme</nombres>
+                <apellidos>Sylva</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Neuza</nombres>
+                <apellidos>Teixeira</apellidos>
+            </compositor>
+        </compositores>
+
+        <productores>
+            <productor>
+                <nombres>Emmanuel</nombres>
+                <apellidos>Del Real</apellidos>
+            </productor>
+        </productores>
+
+        <sello>SonyBMG</sello>
+        <artista>Natalia Lafourcade</artista>
+
+    </cancion1>
+
+    <cancion2>
+
+        <duracion>3:55</duracion>
+        <anio>2013</anio>
+        <titulo>Happy</titulo>
+
+        <compositores>
+            <compositor>
+                <nombres>Pharrell</nombres>
+                <apellidos>Williams</apellidos>
+            </compositor>
+        </compositores>
+
+        <productores>
+            <productor>
+                <nombres>Pharrell</nombres>
+                <apellidos>Williams</apellidos>
+            </productor>
+        </productores>
+
+        <sello>Columbia Records</sello>
+        <artista>Pharrell Williams</artista>
+
+    </cancion2>
+
+    <cancion3>
+
+        <duracion>3:36</duracion>
+        <anio>2010</anio>
+        <titulo>Baby</titulo>
+
+        <compositores>
+            <compositor>
+                <nombres>Christopher</nombres>
+                <apellidos>Stewart</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Terius</nombres>
+                <apellidos>Nash</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Christopher</nombres>
+                <apellidos>Bridges</apellidos>
+            </compositor>
+            <compositor>
+                <nombres>Christina</nombres>
+                <apellidos>Milian</apellidos>
+            </compositor>
+        </compositores>
+
+        <productores>
+            <productor>
+                <nombres>Christopher</nombres>
+                <apellidos>Stewart</apellidos>
+            </productor>
+            <productor>
+                <nombres>Terius</nombres>
+                <apellidos>Nash</apellidos>
+            </productor>
+        </productores>
+
+        <sello>Island</sello>
+        <artista>Justin Bieber</artista>
+
+    </cancion3>
+
+</canciones>
